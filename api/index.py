@@ -9,3 +9,10 @@ def home():
 @app.route('/about')
 def about():
     return 'About'
+
+@app.route('/my_endpoint', methods=['POST'])
+def my_endpoint():
+    param = request.json['my_param']
+    # do something with the parameter
+    result = {'message': 'success'}
+    return jsonify(result)
