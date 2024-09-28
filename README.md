@@ -31,8 +31,8 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 <img src="https://skillicons.dev/icons?i=python,flask" />
 <br>
 
-# Flask A* Algorithm
-Flask A Algorithm* is a simple web application built using Flask to demonstrate the A* pathfinding algorithm. The A* algorithm is widely used in computer science, especially in games and robotics, to find the shortest path between two points. This project visualizes how the A* algorithm works in a grid-based environment.
+# A* Algorithm
+A Algorithm* is a simple web application built using Flask to demonstrate the A* pathfinding algorithm. The A* algorithm is widely used in computer science, especially in games and robotics, to find the shortest path between two points. This project visualizes how the A* algorithm works in a grid-based environment.
 
 ## Table of Contents
 1. Overview
@@ -44,7 +44,7 @@ Flask A Algorithm* is a simple web application built using Flask to demonstrate 
 7. License
    
 ## Overview
-The Flask A Algorithm* project provides a web-based visualization of the A* algorithm, allowing users to set start and end points and visualize the step-by-step process of finding the shortest path on a grid. The application is implemented using Python and Flask for the backend, and JavaScript and HTML for the frontend.
+The A Algorithm* project provides a web-based visualization of the A* algorithm, allowing users to set start and end points and visualize the step-by-step process of finding the shortest path on a grid. The application is implemented using Python and Flask for the backend, and JavaScript and HTML for the frontend.
 
 ## Features
 Interactive Grid: Users can select start and end points on a grid and place obstacles.
